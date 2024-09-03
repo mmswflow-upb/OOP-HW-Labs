@@ -1,3 +1,3 @@
 # OOP-HW-Labs
 
-All the assignments given during the OOP course (Advanced Java)
+All the solutions to the assignments given during the OOP course (Advanced Java)
