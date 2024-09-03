@@ -1,2 +1,3 @@
 # OOP-HW-Labs
-Object-Oriented Programming I - Year II Sem I
+
+All the assignments given in during the OOP course (Advanced Java)
